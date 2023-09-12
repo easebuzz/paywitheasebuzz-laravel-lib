@@ -1,0 +1,17 @@
+{
+    "name": "easebuzz/pay-with-easebuzz-laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Easebuzz\\PayWithEasebuzzLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "easebuzz",
+            "email": "pgsupport@easebuzz.in"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
